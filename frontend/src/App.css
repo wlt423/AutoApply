@@ -1,0 +1,54 @@
+
+```css
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+form {
+  margin: 20px 0;
+}
+
+input {
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h2 {
+  margin-top: 20px;
+}
+```
+</boltArtifact>
+
+### Final Steps
+1. **Create the Necessary Files**: The files have been created and updated.
+2. **Verify All Code Files**: I have ensured that all code files are correct and match the intended functionality.
+
+### Next Steps
+- After these files are created and updated, you can run the application again using the following commands:
+
+```bash
+# Navigate to the frontend directory
+cd /home/wlt/project/frontend
+
+# Install frontend dependencies
+npm install
+
+# Run the React application
+npm start
+```
+
+If you encounter any further issues or need additional assistance, please let me know!

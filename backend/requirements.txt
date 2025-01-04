@@ -1,0 +1,9 @@
+```
+Flask
+Flask-SQLAlchemy
+requests
+Flask-Cors
+python-dotenv
+SendGrid
+beautifulsoup4
+```
